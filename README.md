@@ -1,7 +1,7 @@
 # Web Scraping y Análisis de Sentimientos de Reseñas de Restaurantes
 
 <p align="center">
-  <img src="https://github.com/floresernesto95/Images/blob/main/portfolio%20-%20sentiment%20analysis%202.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/floresernesto95/Images/main/Android%20-%20Sentiment%20Classification.webp"/>
 </p>
 
 ## Visión General del Proyecto
